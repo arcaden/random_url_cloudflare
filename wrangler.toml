@@ -1,0 +1,6 @@
+name = "random_url_test"
+type = "javascript"
+account_id = "fb819c54e04cd42252e29fc151a778c8"
+workers_dev = true
+route = ""
+zone_id = ""
